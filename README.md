@@ -1,0 +1,1 @@
+This project utilizes Python programming language and libraries such as Pandas, NumPy, and Matplotlib to analyzes student exam scores to identify trends, patterns, and areas for improvement. It utilizes data visualization techniques to present insights in a clear and actionable manner.
